@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 10vh;
+}
+
+.carousel-item img {
+    height: 70vh;
+}
+
+.carousel-item {
+    padding: 57px;
+}
+
+.container {
+    width: 75%;
+    padding: 18px;
+}
+
+.container2 {
+    width: 25%;
+    padding: 18px;
+}
+
+.fix34 {
+    display: flex;
+    padding: 57px;
+}
+
+.small,
+small {
+    font-size: 0.875em;
+    background: #1c77d5ed;
+    color: white;
+    padding: 1px 10px;
+}
+
+.cons {
+    width: 75%;
+    padding: 6px 10%;
+}
+
+.cons img {
+    width: 100%;
+}
+
+.coims {
+    width: 25%;
+    padding: 0 16px;
+}
+
+.concon {
+    display: flex;
+}
+
+.cotton3 {
+    padding: 36px 61px;
+}
